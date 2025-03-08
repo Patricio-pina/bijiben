@@ -6,7 +6,7 @@
 
 ## 在线演示
 
-你可以在这里玩游戏: [塔防游戏在线演示](https://你的用户名.github.io/tower-defense-game/)
+你可以在这里玩游戏: [塔防游戏在线演示](https://patricio-pina.github.io/bijiben/)
 
 ## 游戏说明
 
